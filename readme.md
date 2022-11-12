@@ -1,4 +1,4 @@
-This is my "pet-project", it's begining like idea of creation proggram to lookup 3d-Anathomy models with element details of 3d-model.
+This is my "pet-project", it's begining like idea of creation program to lookup 3d-Anathomy models with element details of 3d-model.
 
 This is main window(the only one at the moment)
 
